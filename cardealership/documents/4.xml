@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type = "supply">
+	<automobile>
+		<mark>KIA</mark>
+		<model>Rio</model>
+		<category>B</category>
+		<body>harchback</body>
+		<length>4400</length>
+		<width>1740</width>
+		<height>1470</height>
+		<wheelbase>2600</wheelbase>
+  		<weight>1160</weight>
+  		<maximumWeight>1580</maximumWeight>
+  		<modification>Sport</modification>
+		<engine>1.6</engine>
+		<cylinders>4</cylinders>
+		<power>123</power>
+		<acceleration>10.3</acceleration>
+		<fuelConsumptionCity>8</fuelConsumptionCity>
+		<fuelConsumptionRoute>4.8</fuelConsumptionRoute>
+		<transmission>automatic</transmission>
+		<ABS/>Y
+		<cruiseControl/>
+		<interior>velours</interior>
+		<climateControl/>Y
+		<airbagsFront/>Y
+		<airbagsSide/>Y
+		<color>blue</color>
+		<dateOfManufacture>2015-11-02</dateOfManufacture>
+		<vinEngine>J522T1195KMAYG647</vinEngine>
+		<vinChassis>GK778F295R2750KAG</vinChassis>
+		<vinBody>MV7HSZNGY2329AZH</vinBody>
+	</automobile>
+</document>

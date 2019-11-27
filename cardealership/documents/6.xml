@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document type = "supply">
+	<automobile>
+		<mark>UAZ</mark>
+		<model>Patriot</model>
+		<category>B</category>
+		<body>suv</body>
+		<length>4750</length>
+		<width>1600</width>
+		<height>1900</height>
+		<wheelbase>2760</wheelbase>
+  		<weight>2125</weight>
+  		<maximumWeight>2650</maximumWeight>
+  		<modification>Plus</modification>
+		<engine>2.7</engine>
+		<cylinders>4</cylinders>
+		<power>135</power>
+		<acceleration>15</acceleration>
+		<fuelConsumptionCity>14</fuelConsumptionCity>
+		<fuelConsumptionRoute>11.5</fuelConsumptionRoute>
+		<transmission>manual</transmission>
+		<ABS/>Y
+		<cruiseControl/>
+		<interior>velours</interior>
+		<climateControl/>Y
+		<airbagsFront/>Y
+		<airbagsSide/>Y
+		<color>green</color>
+		<dateOfManufacture>2012-01-02</dateOfManufacture>
+		<vinEngine>P29GHZY6723849HBQ</vinEngine>
+		<vinChassis>GJRT268A0HFBCTH21</vinChassis>
+		<vinBody>920AZJG82JZGWPMG6</vinBody>
+	</automobile>
+</document>
